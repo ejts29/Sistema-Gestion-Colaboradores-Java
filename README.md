@@ -39,7 +39,7 @@ El diseño del sistema se basó en la **Abstracción** y el **Encapsulamiento** 
 
 Este proyecto puede ejecutarse instantáneamente en tu navegador gracias a **Replit**, que prepara el entorno de desarrollo con Java y Maven automáticamente, sin necesidad de instalaciones locales.
 
-[![Run on Replit](https://replit.com/badge/github/ejts29/Sistema-Gestion-Colaboradores-Java)](https://replit.com/@ejts29/Sistema-Gestion-Colaboradores-Java-ReplName)
+[![Run on Replit](https://replit.com/badge/github/ejts29/Sistema-Gestion-Colaboradores-Java)](https://replit.com/@ejts29/Sistema-Gestion-Colaboradores-Java)
 
 ---
 ### Ejecución Local
