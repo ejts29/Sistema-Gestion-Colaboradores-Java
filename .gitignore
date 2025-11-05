@@ -1,0 +1,58 @@
+# Archivo: .gitignore
+
+# -----------------
+# BUILD OUTPUT (MAVEN)
+# -----------------
+# Ignorar la carpeta de archivos compilados y empaquetados de Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# Archivos de log
+*.log
+log/
+# Archivos JAR y WAR
+*.jar
+*.war
+*.ear
+
+# -----------------
+# IDE FILES (Entornos de Desarrollo Comunes)
+# -----------------
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.class
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+.nb-gradle/
+.nb-gradle-properties
+
+# VS Code
+.vscode/
+
+# -----------------
+# OS Generated Files
+# -----------------
+# macOS
+.DS_Store
+# Windows
+Thumbs.db

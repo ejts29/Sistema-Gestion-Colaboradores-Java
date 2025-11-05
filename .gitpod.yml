@@ -1,0 +1,22 @@
+# Archivo: .gitpod.yml
+
+# 1. ESPECIFICAR LA IMAGEN BASE
+# Usamos una imagen que ya incluye Java y Maven
+image: gitpod/workspace-java-maven
+
+# 2. CONFIGURACIÓN DE TAREAS AL INICIAR
+tasks:
+  - name: Build and Run Java Application
+    # El comando 'init' se ejecuta una vez para preparar el proyecto
+    init: |
+      # 2.1 Compila el proyecto con Maven para generar los archivos .class
+      echo "Compilando el proyecto..."
+      mvn compile
+    
+    # El comando 'command' se ejecuta una vez que el 'init' finaliza,
+    # y mantiene el proceso corriendo (tu aplicación de consola)
+    command: |
+      # 2.2 Ejecuta la aplicación de consola Java
+      echo "Iniciando el Sistema de Gestión de Colaboradores..."
+      # mvn exec:java utiliza la clase principal definida en tu pom.xml para iniciar el programa
+      mvn exec:java
