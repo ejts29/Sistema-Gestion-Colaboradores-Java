@@ -35,12 +35,13 @@ El diseño del sistema se basó en la **Abstracción** y el **Encapsulamiento** 
 
 ## 🚀 Ejecución
 
-### Ejecución Rápida en Línea (Gitpod)
+### Ejecución Rápida en Línea (Replit)
 
-Este proyecto está configurado con **Gitpod** para que puedas abrirlo y ejecutarlo en una terminal de navegador con un solo clic, sin necesidad de instalaciones locales.
+Este proyecto puede ejecutarse instantáneamente en tu navegador gracias a **Replit**, que prepara el entorno de desarrollo con Java y Maven automáticamente, sin necesidad de instalaciones locales.
 
-[![Abrir en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ejts29/Sistema-Gestion-Colaboradores-Java)
+[![Run on Replit](https://replit.com/badge/github/ejts29/Sistema-Gestion-Colaboradores-Java)](https://replit.com/@ejts29/Sistema-Gestion-Colaboradores-Java-ReplName)
 
+---
 ### Ejecución Local
 
 Para ejecutarlo localmente, asegúrate de tener **Java 21** (o compatible) y **Maven** instalados. Puedes utilizar un IDE como **Apache NetBeans** o seguir los pasos de la terminal:
