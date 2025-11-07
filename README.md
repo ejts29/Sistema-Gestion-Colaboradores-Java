@@ -1,8 +1,8 @@
-#  Sistema de Gestión de Colaboradores (POO en Java)
+#💼💻  Sistema de Gestión de Colaboradores (POO en Java)
 
-> Proyecto de aplicación de **consola** desarrollado en **Java (Maven)** para la gestión básica de empleados (colaboradores) de una empresa ficticia.
->
-> Desarrollado como **Examen Final de Programación Orientada a Objetos (POO)**, este sistema demuestra la aplicación rigurosa de principios POO, lógica de negocio compleja y manejo de excepciones en un entorno *backend* puro.
+Proyecto de aplicación de **consola** desarrollado en **Java (Maven)** para la gestión básica de empleados (colaboradores) de una empresa ficticia.
+
+Desarrollado como **Examen Final de Programación Orientada a Objetos (POO)**, este sistema demuestra la aplicación rigurosa de principios POO, lógica de negocio compleja y manejo de excepciones en un entorno *backend* puro.
 
 ---
 
