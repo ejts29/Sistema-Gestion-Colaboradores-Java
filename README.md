@@ -1,4 +1,4 @@
-# 💻 Sistema de Gestión de Colaboradores (POO en Java)
+#  Sistema de Gestión de Colaboradores (POO en Java)
 
 > Proyecto de aplicación de **consola** desarrollado en **Java (Maven)** para la gestión básica de empleados (colaboradores) de una empresa ficticia.
 >
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Principios de Programación Orientada a Objetos (POO)
+##  Principios de Programación Orientada a Objetos (POO)
 
 El diseño del sistema se basó en la **Abstracción** y el **Encapsulamiento** para modelar las entidades de negocio y su comportamiento.
 
@@ -19,7 +19,7 @@ El diseño del sistema se basó en la **Abstracción** y el **Encapsulamiento** 
 
 ---
 
-## ⚙️ Características Clave del Back-End
+##  Características Clave del Back-End
 
 * **Persistencia en Memoria:** Utilización de `ArrayList` para gestionar la colección dinámica de colaboradores en tiempo de ejecución.
 * **Lógica de Negocio y Cálculos Financieros:**
@@ -33,7 +33,7 @@ El diseño del sistema se basó en la **Abstracción** y el **Encapsulamiento** 
 
 ---
 
-## 🚀 Ejecución
+##  Ejecución
 
 ### Ejecución Rápida en Línea (Replit)
 
@@ -55,6 +55,6 @@ Para ejecutarlo localmente, asegúrate de tener **Java 21** (o compatible) y **M
 
 ---
 
-## 🏷️ Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto sigue la estructura estándar de **Maven**:
