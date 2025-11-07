@@ -40,7 +40,7 @@ El diseño del sistema se basó en la **Abstracción** y el **Encapsulamiento** 
 Este proyecto puede ejecutarse instantáneamente en tu navegador gracias a **Replit**, que prepara el entorno de desarrollo con Java y Maven automáticamente, sin necesidad de instalaciones locales.
 ## Pasos para la Ejecución
 
-1.  **Pincha el enlace:** El enlace te redireccionará a **Replit**.O Puedes darle click Derecho Selecciona Abrir en una nueva pestaña -> (Solo en caso de que quieras Tener las instrucciones en la pestaña anterior)
+1.  **Pincha el enlace:** El enlace te redireccionará a **Replit**.` O ` Puedes darle click Derecho Selecciona Abrir en una nueva pestaña -> (Solo en caso de que quieras Tener las instrucciones en la pestaña anterior)
 2.  **Inicia sesión o regístrate:** Inicia sesión en Replit o regístrate si no tienes una cuenta.
 3.  **Remix this app:** Una vez que ya tengas tu cuenta, dale al botón **"Remix this app"**. Esto replicará el código en tu cuenta (no te preocupes, luego lo puedes borrar). Sigue las instrucciones.
 4.  **Ejecutar:** Te aparecerá un botón **"Project"** en verde. Pínchalo.
