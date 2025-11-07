@@ -48,6 +48,18 @@ Este proyecto puede ejecutarse instantáneamente en tu navegador gracias a **Rep
 
 [![Run on Replit](https://replit.com/badge/github/ejts29/Sistema-Gestion-Colaboradores-Java)](https://replit.com/@ejts29/Sistema-Gestion-Colaboradores-Java)
 
+# Pasos para Eliminar un Repositorio (App) en Replit
+
+A continuación, se detalla cómo borrar una aplicación o repositorio de tu cuenta:
+
+1.  **Ir al menú "Apps":** En la parte extrema izquierda, en el menú principal, busca y haz clic en la opción **"Apps"**.
+2.  **Ver tus repositorios:** Allí te aparecerán todos los repositorios (Apps) que tienes creados en Replit.
+3.  **Seleccionar el Repositorio:** Identifica y selecciona el repositorio que deseas eliminar de tu cuenta.
+4.  **Abrir Opciones y "Delete":** En la parte extrema derecha del repositorio seleccionado, aparecerá un menú con distintas opciones. Selecciona la opción **"Delete"** (Eliminar).
+5.  **Confirmar la Eliminación:** Te aparecerá un mensaje de confirmación preguntando si realmente deseas borrarlo. Confirma haciendo clic en **"Deseo borrar la APP"** (o el texto de confirmación equivalente).
+6.  **¡Listo!** La App ha sido borrada de tu cuenta.
+
+
 ---
 ### Ejecución Local
 
