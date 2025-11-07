@@ -46,7 +46,7 @@ Este proyecto puede ejecutarse instantáneamente en tu navegador gracias a **Rep
 4.  **Ejecutar:** Te aparecerá un botón **"Project"** en verde. Pínchalo.
 5.  **¡Bienvenido!** Ya estás ejecutando el programa y lo puedes usar.
 
-[![Run on Replit](https://replit.com/badge/github/ejts29/Sistema-Gestion-Colaboradores-Java)](https://replit.com/@ejts29/Sistema-Gestion-Colaboradores-Java)
+[![Run on Replit](https://replit.com/badge/github/ejts29/Sistema-Gestion-Colaboradores-Java)](https://replit.com/@ejts29/Sistema-Gestion-Colaboradores-Java){:target="_blank"}
 
 # Pasos para Eliminar un Repositorio (App) en Replit
 
